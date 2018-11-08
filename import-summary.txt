@@ -1,0 +1,80 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\AraBMApiDev.jar => app\libs\AraBMApiDev.jar
+* libs\AraBMApiFp.jar => app\libs\AraBMApiFp.jar
+* libs\AraBMApiIccard.jar => app\libs\AraBMApiIccard.jar
+* libs\AraBMApiIdcard.jar => app\libs\AraBMApiIdcard.jar
+* libs\AraBMApiPrinter.jar => app\libs\AraBMApiPrinter.jar
+* libs\AraBMApiQrc.jar => app\libs\AraBMApiQrc.jar
+* libs\armeabi-v7a\libAraBione.so => app\src\main\jniLibs\armeabi-v7a\libAraBione.so
+* libs\armeabi-v7a\libAraBMApiDev.so => app\src\main\jniLibs\armeabi-v7a\libAraBMApiDev.so
+* libs\armeabi-v7a\libAraBMApiFp.so => app\src\main\jniLibs\armeabi-v7a\libAraBMApiFp.so
+* libs\armeabi-v7a\libAraBMApiFpAlgorithm.so => app\src\main\jniLibs\armeabi-v7a\libAraBMApiFpAlgorithm.so
+* libs\armeabi-v7a\libAraBMApiIccard.so => app\src\main\jniLibs\armeabi-v7a\libAraBMApiIccard.so
+* libs\armeabi-v7a\libAraBMApiIdcard.so => app\src\main\jniLibs\armeabi-v7a\libAraBMApiIdcard.so
+* libs\armeabi-v7a\libAraBMApiPrinter.so => app\src\main\jniLibs\armeabi-v7a\libAraBMApiPrinter.so
+* libs\armeabi-v7a\libAraBMApiQrc.so => app\src\main\jniLibs\armeabi-v7a\libAraBMApiQrc.so
+* libs\armeabi-v7a\libftrScanAPI.so => app\src\main\jniLibs\armeabi-v7a\libftrScanAPI.so
+* libs\armeabi-v7a\libusb-1.0.so => app\src\main\jniLibs\armeabi-v7a\libusb-1.0.so
+* libs\armeabi-v7a\libwlt2bmp.so => app\src\main\jniLibs\armeabi-v7a\libwlt2bmp.so
+* libs\armeabi-v7a\libWSQ_library_android.so => app\src\main\jniLibs\armeabi-v7a\libWSQ_library_android.so
+* libs\armeabi-v7a\libxml2.so => app\src\main\jniLibs\armeabi-v7a\libxml2.so
+* libs\armeabi\libAraBione.so => app\src\main\jniLibs\armeabi\libAraBione.so
+* libs\armeabi\libAraBMApiDev.so => app\src\main\jniLibs\armeabi\libAraBMApiDev.so
+* libs\armeabi\libAraBMApiFp.so => app\src\main\jniLibs\armeabi\libAraBMApiFp.so
+* libs\armeabi\libAraBMApiFpAlgorithm.so => app\src\main\jniLibs\armeabi\libAraBMApiFpAlgorithm.so
+* libs\armeabi\libAraBMApiIccard.so => app\src\main\jniLibs\armeabi\libAraBMApiIccard.so
+* libs\armeabi\libAraBMApiIdcard.so => app\src\main\jniLibs\armeabi\libAraBMApiIdcard.so
+* libs\armeabi\libAraBMApiPrinter.so => app\src\main\jniLibs\armeabi\libAraBMApiPrinter.so
+* libs\armeabi\libAraBMApiQrc.so => app\src\main\jniLibs\armeabi\libAraBMApiQrc.so
+* libs\armeabi\libftrScanAPI.so => app\src\main\jniLibs\armeabi\libftrScanAPI.so
+* libs\armeabi\libusb-1.0.so => app\src\main\jniLibs\armeabi\libusb-1.0.so
+* libs\armeabi\libwlt2bmp.so => app\src\main\jniLibs\armeabi\libwlt2bmp.so
+* libs\armeabi\libWSQ_library_android.so => app\src\main\jniLibs\armeabi\libWSQ_library_android.so
+* libs\armeabi\libxml2.so => app\src\main\jniLibs\armeabi\libxml2.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

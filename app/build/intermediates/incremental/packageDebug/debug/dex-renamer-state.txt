@@ -1,0 +1,4 @@
+#Tue Mar 06 11:06:49 COT 2018
+base.0=D\:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

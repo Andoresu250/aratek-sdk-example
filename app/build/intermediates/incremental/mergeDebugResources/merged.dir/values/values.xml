@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="activity_background">#FFFFFF</color>
+    <color name="error_details_text_color">#FF0000</color>
+    <color name="error_text_color">#FF0000</color>
+    <color name="information_details_text_color">#00AA00</color>
+    <color name="information_text_color">#00AA00</color>
+    <string name="address">Address: </string>
+    <string name="algorithm_cleanup_failed">Algorithm anti-initialization failed!</string>
+    <string name="algorithm_initialization_failed">Algorithm initialization failed!</string>
+    <string name="align_barcode">Please align the scan window to the barcode.</string>
+    <string name="app_name">Aratek BMAPI Demo</string>
+    <string name="authority">Issuing Authority: </string>
+    <string name="barcode_format">Barcode Format: </string>
+    <string name="barcode_scan_failed">Failed to scan barcode!</string>
+    <string name="barcode_scan_success">Succeeded to scan barcode!</string>
+    <string name="barcode_scanned"><ns1:g>%1$d</ns1:g> barcodes has been scanned.</string>
+    <string name="barcode_scanned_none">No barcodes.</string>
+    <string name="barcode_size">Barcode Size (bytes): </string>
+    <string name="birthday">Birthday: </string>
+    <string name="capture">Capture Image: </string>
+    <string name="capture_image_failed">Failed to capture fingerprint image!</string>
+    <string name="capture_image_success">Succeeded to capture fingerprint image!</string>
+    <string name="clear_fingerprint_database_failed">Failed to clear fingerprint database!</string>
+    <string name="clear_fingerprint_database_success">Succeeded to clear fingerprint database!</string>
+    <string name="clear_fp_db">Clear Database</string>
+    <string name="closing_device">Device is closing, please wait…</string>
+    <string name="data_output">Data Output: </string>
+    <string name="enroll_failed_because_of_error">Enrollment failed!</string>
+    <string name="enroll_failed_because_of_extract_feature">Feature extracting failure!</string>
+    <string name="enroll_failed_because_of_get_id">Enrollment failed because fingerprint database is full!</string>
+    <string name="enroll_failed_because_of_make_template">Enrollment failed because of template making failure!</string>
+    <string name="enroll_fp">Enroll</string>
+    <string name="enroll_success">Enrollment succeeded!</string>
+    <string name="enrolled_id">The enrolled fingerprint ID is <ns1:g>%1$d</ns1:g>.</string>
+    <string name="enrolling">Enrolling fingerprint to database…</string>
+    <string name="error_algorithm_initialization_failed">Operation failed because of fingerprint algorithm initialization failure!</string>
+    <string name="error_algorithm_reinitialize">Operation failed because of fingerprint algorithm is initialized repeatedly!</string>
+    <string name="error_algorithm_uninitialize">Operation failed because fingerprint algorithm is not initialized!</string>
+    <string name="error_bad_image">Operation failed because of unqualified fingerprint image!</string>
+    <string name="error_card_not_activate">Operation failed because card is not activated!</string>
+    <string name="error_card_validate_failed">Operation failed because of encryption key authentication failure!</string>
+    <string name="error_database_full">Operation failed because database is full!</string>
+    <string name="error_decode">Operation failed because of decoding failure!</string>
+    <string name="error_device_busy">Operation failed because device is busy!</string>
+    <string name="error_device_not_found">Operation failed because device is not found!</string>
+    <string name="error_device_not_open">Operation failed because device is not open!</string>
+    <string name="error_device_reopen">Operation failed because device is repeatedly turned on!</string>
+    <string name="error_initialization_failed">Operation failed because of initialization failure!</string>
+    <string name="error_invalid_card">Operation failed because card is not supported!</string>
+    <string name="error_invalid_decode_lib">Operation failed because decoding library is invalid!</string>
+    <string name="error_invalid_feature_data">Operation failed because of invalid fingerprint feature data!</string>
+    <string name="error_library_missing">Operation failed because fingerprint algorithm library is missing!</string>
+    <string name="error_low_point">Operation failed because fingerprint verification score is too low!</string>
+    <string name="error_no_card">Operation failed because no card is found!</string>
+    <string name="error_no_finger">Operation failed because of no fingers found!</string>
+    <string name="error_no_paper">Paper has been exhausted!</string>
+    <string name="error_no_permission">Operation failed because of no permission!</string>
+    <string name="error_no_result">Operation failed because of no match fingerprint is found in database!</string>
+    <string name="error_not_enough_memory">Operation failed because of insufficient memory!</string>
+    <string name="error_not_enrolled">Operation failed because fingerprint is not enrolled!</string>
+    <string name="error_not_match">Operation failed because fingerprint dose not match!</string>
+    <string name="error_not_support">Operation failed because it\'s not supported!</string>
+    <string name="error_operation_failed">Operation failed!</string>
+    <string name="error_other">Operation failed because of other errors!</string>
+    <string name="error_out_of_bound">Operation failed because fingerprint ID is out of range!</string>
+    <string name="error_repeated_enroll">Operation failed because of fingerprint is enrolled repeatedly!</string>
+    <string name="error_timeout">Operation failed because of timeout!</string>
+    <string name="error_unknown">Operation failed because of unknown error!</string>
+    <string name="error_wrong_connection">Operation failed because of wrong connection!</string>
+    <string name="error_wrong_parameter">Operation failed because of wrong parameter!</string>
+    <string name="exist">Yes</string>
+    <string name="extract">Extract Feature: </string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="fingerprint_device_close_failed">Failed to colse fingerprint device!</string>
+    <string name="fingerprint_device_close_success">Succeeded to colse fingerprint device!</string>
+    <string name="fingerprint_device_open_failed">Failed to open fingerprint device!</string>
+    <string name="fingerprint_device_open_success">Succeeded to open fingerprint device!</string>
+    <string name="fingerprint_device_power_off_failed">Failed to power off fingerprint device!</string>
+    <string name="fingerprint_device_power_on_failed">Failed to power on fingerprint device!</string>
+    <string name="fingerprint_match">Fingerprint match!</string>
+    <string name="fingerprint_not_match">Fingerprint does not match!</string>
+    <string name="fingerprint_similarity">The similarity is <ns1:g>%1$d</ns1:g>.</string>
+    <string name="firmware_version">Firmware Version: </string>
+    <string name="fp_collect_info">Time Information: </string>
+    <string name="fp_info">Fingerprint: </string>
+    <string name="fps_fw">Fingerprint sensor firmware version: <ns1:g>%1$s</ns1:g>.</string>
+    <string name="fps_sn">Fingerprint sensor serial number: <ns1:g>%1$s</ns1:g>.</string>
+    <string name="generalize">Make Template: </string>
+    <string name="hardware_barcode">Barcode</string>
+    <string name="hardware_barcode_scanner_close_failed">Failed to close barcode scanner!</string>
+    <string name="hardware_barcode_scanner_close_success">Succeeded to close barcode scanner!</string>
+    <string name="hardware_barcode_scanner_open_failed">Failed to open barcode scanner!</string>
+    <string name="hardware_barcode_scanner_open_success">Succeeded to open barcode scanner!</string>
+    <string name="hardware_barcode_scanner_power_off_failed">Failed to power off barcode scanner!</string>
+    <string name="hardware_barcode_scanner_power_on_failed">Failed to power on barcode scanner!</string>
+    <string name="ic_card_read_failed">Failed to read IC card!</string>
+    <string name="ic_card_read_success">Succeeded to read IC card!</string>
+    <string name="ic_card_reader_close_failed">Failed to close IC card reader!</string>
+    <string name="ic_card_reader_close_success">Succeeded to close IC card reader!</string>
+    <string name="ic_card_reader_open_failed">Failed to open IC card reader!</string>
+    <string name="ic_card_reader_open_success">Succeeded to open IC card reader!</string>
+    <string name="ic_card_reader_power_off_failed">Failed to power off IC card reader!</string>
+    <string name="ic_card_reader_power_on_failed">Failed to power on IC card reader!</string>
+    <string name="ic_card_validate_key_failed">Failed to verify the encryption key!</string>
+    <string name="ic_card_write_failed">Failed to write IC card!</string>
+    <string name="ic_card_write_success">Succeeded to write IC card!</string>
+    <string name="iccard">IC Card</string>
+    <string name="id_card_not_exist_or_reread">Please remove ID card and put it back to card reading area again!</string>
+    <string name="id_card_read_failed">Failed to read ID card!</string>
+    <string name="id_card_read_id_failed">Failed to read ID card!</string>
+    <string name="id_card_read_id_success">Succeeded to read ID card! ID is </string>
+    <string name="id_card_read_success">Succeeded to read ID card!</string>
+    <string name="id_card_reader_close_failed">Failed to close ID card reader!</string>
+    <string name="id_card_reader_close_success">Succeeded to close ID card reader!</string>
+    <string name="id_card_reader_open_failed">Failed to open ID card reader!</string>
+    <string name="id_card_reader_open_success">Succeeded to open ID card reader!</string>
+    <string name="id_card_reader_power_off_failed">Failed to power off ID card reader!</string>
+    <string name="id_card_reader_power_on_failed">Failed to power on ID card reader!</string>
+    <string name="idcard">China ID Card</string>
+    <string name="idcard_sn">ID Card device serial number is <ns1:g>%1$s</ns1:g>.</string>
+    <string name="identify_failed_because_of_error">Identification failed!</string>
+    <string name="identify_failed_because_of_extract_feature">Identification failed because of feature extracting failure!</string>
+    <string name="identify_fp">Identify</string>
+    <string name="identify_match">Identification succeeded!</string>
+    <string name="identifying">Identifying fingerprint…</string>
+    <string name="info_error">Error</string>
+    <string name="loading">Loading</string>
+    <string name="long_term">Long-term</string>
+    <string name="matched_id">The matched fingerprint ID is <ns1:g>%1$d</ns1:g>.</string>
+    <string name="multi_scan">Barcode Batch Scan</string>
+    <string name="name">Name: </string>
+    <string name="nationality">Nationality: </string>
+    <string name="not_done">Not applicable</string>
+    <string name="not_exist">No</string>
+    <string name="number">ID Card Number: </string>
+    <string name="operation_successful">Operation is successful!</string>
+    <string name="place_iccard">Please keep IC card near the reading area.</string>
+    <string name="place_idcard">Please keep ID card near the reading area.</string>
+    <string name="preparing_device">Device is preparing, please wait…</string>
+    <string name="press_finger">Please press finger on capture area.</string>
+    <string name="print_failed">Printing failed!</string>
+    <string name="print_success">Printing succeeded!</string>
+    <string name="print_test_page">Print test page</string>
+    <string name="printer">Printer</string>
+    <string name="printer_close_failed">Failed to close printer!</string>
+    <string name="printer_close_success">Succeeded to close printer!</string>
+    <string name="printer_open_failed">Failed to open printer!</string>
+    <string name="printer_open_success">Succeeded to open printer!</string>
+    <string name="printer_power_off_failed">Failed to power off printer!</string>
+    <string name="printer_power_on_failed">Failed to power on printer!</string>
+    <string name="printing">Printing…</string>
+    <string name="read_iccard">Read IC card</string>
+    <string name="read_idcard">Read ID Card</string>
+    <string name="read_idcard_id">Read ID Card ID</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="serial_number">Serial Number: </string>
+    <string name="sex">Sex: </string>
+    <string name="show_fp">Show Image</string>
+    <string name="software_barcode">Barcode</string>
+    <string name="unsupported_encoding">The barcode data could not be transferred to UTF-8 encoding!</string>
+    <string name="valid_date">Valid Date: </string>
+    <string name="verify">Authentication: </string>
+    <string name="verify_failed_because_of_error">Verification failed!</string>
+    <string name="verify_failed_because_of_extract_feature">Verification failed because of feature extracting failure!</string>
+    <string name="verify_fp">Verify</string>
+    <string name="verifying">Verifying fingerprint…</string>
+    <string name="write_iccard">Write IC card</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowTitleSize">63dip</item>
+        <item name="android:windowTitleStyle">@style/WindowTitle</item>
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitle</item>
+        <item name="android:textViewStyle">@style/TextView</item>
+        <item name="android:editTextStyle">@style/EditText</item>
+        <item name="android:buttonStyle">@style/Button</item>
+        <item name="android:tabWidgetStyle">@style/TabWidget</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FF000000</item>
+    </style>
+    <style name="Button" parent="android:Widget.Button">
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="EditText" parent="android:Widget.EditText">
+        <item name="android:padding">5dp</item>
+        <item name="android:background">@drawable/edittext</item>
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TabView" parent="android:Widget">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">#FFFFFFFF</item>
+        <item name="android:paddingLeft">4dip</item>
+        <item name="android:paddingRight">4dip</item>
+    </style>
+    <style name="TabWidget" parent="android:Widget.TabWidget">
+        <item name="android:textSize">22sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">fill_horizontal|center_vertical</item>
+        <item name="android:textColor">#FF000000</item>
+    </style>
+    <style name="TextView" parent="android:Widget.TextView">
+        <item name="android:padding">5dp</item>
+        <item name="android:textColor">#FF606060</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="WindowTitle">
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#00000000</item>
+        <item name="android:shadowRadius">0</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:background">#FF00B100</item>
+        <item name="android:paddingLeft">25dp</item>
+    </style>
+</resources>

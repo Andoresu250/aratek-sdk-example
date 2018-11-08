@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected.9.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_focus.9.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\tab_focus.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected.9.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\tab_selected.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nofinger.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\nofinger.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fingerprint.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nophoto.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\nophoto.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_iccard.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout\\activity_iccard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_normal.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\button_normal.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_pressed.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_press.9.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\tab_press.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_activity_fingerprint.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout-port\\activity_fingerprint.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_activity_idcard.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout-port\\activity_idcard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edittext.9.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\edittext.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrc.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout\\activity_qrc.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_barcode.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout\\activity_barcode.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_idcard.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout\\activity_idcard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_indicator.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_printer.xml.flat",
+        "source": "D:\\Projects\\front\\Android\\Aratek_BMApi_Demo\\app\\src\\main\\res\\layout\\activity_printer.xml"
+    }
+]
